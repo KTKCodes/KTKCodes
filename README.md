@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning HTML/CSS/Bootstrap/Javascript/UI/UX
 - 💞️ I’m looking to collaborate with anyone happy to help out someone new to the field
 - 😄 Pronouns: She/Her
+- Avid gamer who enjoys the odd doodling session
