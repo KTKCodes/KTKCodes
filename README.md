@@ -6,10 +6,11 @@ I am a detail-oriented professional currently working in Local Government, pivot
 ---
 
 ### 🛠 My Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), EJS
+- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+), EJS, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL, pgAdmin
-- **Tools:** Git, GitHub, VS Code
+- **Languages & Frameworks:** TypeScript, Bootstrap
+- **Tools:** Vite, Git, GitHub, VS Code
 
 ---
 
@@ -19,6 +20,10 @@ A full-stack CRUD application designed for "overwhelmed plant parents."
 - **Status:** Active Development (configuring secure database roles and environment-led architecture).
 - **Tech:** Node, Express, Postgres.
 
+**[Portfolio Site](https://github.com/KTKCodes/PortfolioSite)**
+A personal website to showcase my artwork in a professionally sleek way.
+- **Status:** Active Development.
+- **Tech:** React, Vite, TypeScript, Tailwind CSS.
 ---
 
 ### 🔭 Currently Learning
